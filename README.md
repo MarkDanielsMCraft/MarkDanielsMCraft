@@ -17,4 +17,4 @@
 
 📌 I use projects as learning tools to apply university concepts in practice.
 
-🔗 Portfolio: https://markdanielsmcraft.github.io/survival-kit/
+🔗 Portfolio: https://mcraftportfolio.vercel.app/
