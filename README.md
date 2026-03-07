@@ -1,8 +1,8 @@
-# Hi, I'm Mark Daniels Mbaziira 👋
+# Hi, I'm Mark Daniels M👋
 
 International Information Systems student | QA, Data, Backend, Frontend
 
-- Seeking working student roles in IT, QA, frontend, backend, and data analysis
+- IT, QA, frontend, backend, and data analysis
 - Focused on quality assurance, data validation, backend logic, and reliable web delivery
 
 ##  Technical Skills
