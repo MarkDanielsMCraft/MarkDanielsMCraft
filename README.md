@@ -86,20 +86,11 @@ You can find more of my experiments, learning projects and development work in m
 
 ---
 
-## Currently Learning
-
-- Java programming and object-oriented software development.
-- Database design and SQL.
-- Software engineering principles and clean code.
-- Improving automated testing and application architecture.
-
 ## Let's Connect
 
-- **Portfolio:** [https://mcraftportfolio.vercel.app](https://mcraftportfolio.vercel.app)
 - **GitHub:** [https://github.com/MarkDanielsMCraft](https://github.com/MarkDanielsMCraft)
-- **Email:** [markdanielsmbaziira@gmail.com](mailto:markdanielsmbaziira@gmail.com)
 - **Location:** Augsburg, Germany
 
 ---
 
-*Learning, building, testing and improving — one project at a time.*
+*Learning, building, testing and improving*
