@@ -62,7 +62,7 @@ A weather platform focused on providing weather information for locations across
 - Uses automated testing with Vitest and Playwright.
 - Includes Capacitor 7 integration for Android and iOS.
 
-### [Lyia Städ](https://lyia.se/)
+### [Lyia Städ](https://lyia.se/en)
 
 A bilingual website developed for a cleaning services company.
 
