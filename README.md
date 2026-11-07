@@ -4,7 +4,7 @@
 
 I'm an International Information Systems student at **Technische Hochschule Augsburg, Germany**, interested in building practical software that solves real-world problems.
 
-I enjoy working across frontend development, backend integrations, databases and application architecture. I build and deploy web applications, experiment with new technologies, and continuously improve my software development skills.
+I enjoy working across frontend development, backend integrations, databases and application architecture. I contribute to, build and deploy web applications, experiment with new technologies, and continuously improve my software development skills.
 
 ---
 
@@ -12,7 +12,7 @@ I enjoy working across frontend development, backend integrations, databases and
 
 - Studying **B.Sc. International Information Systems** at Technische Hochschule Augsburg.
 - Building and maintaining practical web applications.
-- Currently developing my skills in **Java, Python, SQL and modern web technologies**.
+- Currently developing my skills in **Java, ABAP(SAP), Python, SQL and modern web technologies**.
 - Interested in software engineering, application development, APIs, databases and automation.
 - Based in Augsburg, Germany.
 
