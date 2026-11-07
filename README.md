@@ -25,6 +25,7 @@ I enjoy working across frontend development, backend integrations, databases and
 - TypeScript
 - Python
 - SQL
+- ABAP(SAP)
 
 **Frontend Development**
 
@@ -39,7 +40,6 @@ I enjoy working across frontend development, backend integrations, databases and
 - Node.js
 - REST APIs
 - PostgreSQL
-- Supabase
 
 **Testing & Development Tools**
 
@@ -49,6 +49,10 @@ I enjoy working across frontend development, backend integrations, databases and
 - GitHub Actions
 - Vercel
 - VS Code
+
+**AI Tools**
+- Claude Code
+- Codex
 
 ## Selected Projects
 
